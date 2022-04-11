@@ -3,7 +3,7 @@
 ## 과제 제출
 |주차|과제|팀블로그|
 |:---:|---|:---:|
-|1주차|[장서진](https://sulky-waltz-11f.notion.site/Fundamentals-c8b16a51a73346ae8e844aab9bdfb160) &nbsp; [구미진]() &nbsp; [이은빈](https://github.com/binable43/Study-MLOps/blob/main/Week1/Week%201%20:%20Fundamentals.md) &nbsp; [한현경]() &nbsp; [문수인]()|이은빈|
+|1주차|[장서진](https://sulky-waltz-11f.notion.site/Fundamentals-c8b16a51a73346ae8e844aab9bdfb160) &nbsp; [구미진]() &nbsp; [이은빈](https://github.com/binable43/Study-MLOps/blob/main/Week1/Week%201%20:%20Fundamentals.md) &nbsp; [한현경](https://velog.io/@shining_arrow/1.-Deep-Learning-Fundamentals) &nbsp; [문수인]()|이은빈|
 |2주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|문수인|
 |3주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|한현경|
 |4주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|장서진|
