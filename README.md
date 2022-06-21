@@ -11,10 +11,7 @@
 |6주차|[장서진](https://sulky-waltz-11f.notion.site/Infra-Tooling-b342d1faa1b741c8a85ed8bd76421c52) &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경](https://velog.io/@shining_arrow/6.-MLOps-Infrastructure-Tooling) &nbsp; [문수인]()|이은빈|
 |7주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|문수인|
 |8주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|한현경|
-|9주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|장서진|
-|10주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|구미진|
-|11주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|이은빈|
-|12주차|[장서진]() &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인]()|문수인|
+
 
 <!-- ()안에 과제 기록한 곳 링크 넣으시면 됩니다! -->
 
