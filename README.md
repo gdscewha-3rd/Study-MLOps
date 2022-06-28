@@ -10,7 +10,7 @@
 |5주차|[장서진](https://sulky-waltz-11f.notion.site/ML-Projects-110276e361a64153804005d5f62d22a4) &nbsp; [구미진](https://maktubi.tistory.com/231?category=556331) &nbsp; [이은빈](https://github.com/binable43/Study-MLOps/blob/main/Week5/Week%205%20:%20ML%20Project.md) &nbsp; [한현경]() &nbsp; [문수인](https://github.com/m0oon0/ML/blob/main/MLops/5%20:%20ML%20Projects.md)|[구미진](https://gdscewha.tistory.com/entry/5%EC%A3%BC%EC%B0%A8-ML-Projects)|
 |6주차|[장서진](https://sulky-waltz-11f.notion.site/Infra-Tooling-b342d1faa1b741c8a85ed8bd76421c52) &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경](https://velog.io/@shining_arrow/6.-MLOps-Infrastructure-Tooling) &nbsp; [문수인]()|이은빈|
 |7주차|[장서진](https://sulky-waltz-11f.notion.site/Troubleshooting-771bb71a1fb847e892ef1000c48d7c76) &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인](https://github.com/m0oon0/ML/blob/main/MLops/Troubleshooting.md)|[문수인](https://gdscewha.tistory.com/entry/7%EC%A3%BC%EC%B0%A8-Troubleshooting)|
-|8주차|[장서진](https://sulky-waltz-11f.notion.site/Data-ae400fe8e6f644f78116bbc0af91f60f) &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경]() &nbsp; [문수인](https://github.com/m0oon0/ML/blob/main/MLops/Data%20Management.md)|한현경(https://velog.io/@shining_arrow/8.-Data-Management)|
+|8주차|[장서진](https://sulky-waltz-11f.notion.site/Data-ae400fe8e6f644f78116bbc0af91f60f) &nbsp; [구미진]() &nbsp; [이은빈]() &nbsp; [한현경](https://velog.io/@shining_arrow/8.-Data-Management) &nbsp; [문수인](https://github.com/m0oon0/ML/blob/main/MLops/Data%20Management.md)|한현경|
 
 
 <!-- ()안에 과제 기록한 곳 링크 넣으시면 됩니다! -->
